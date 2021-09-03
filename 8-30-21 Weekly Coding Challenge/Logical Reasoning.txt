@@ -1,0 +1,10 @@
+Logical Reasoning:
+
+A watch, which loses time uniformly, was observed to be 5 minutes fast at 8.00 p.m. on Thursday. It was noticed to be 7 minutes slow at 8.00 a.m. on the subsequent Monday. When did the watch show the correct time ? Explanation needed.
+
+a) 7 a.m. Saturday 
+b) 7 a.m. on Friday
+c) 10a.m. on Sunday 
+d) 11 a.m. on Friday
+
+I think the correct answer would be a) 7 a.m. Saturday because if you were to subtract 3 minutes every day from the observed offset time, it would be equal to the time on Monday. Therefore, at an offset of 0 minutes, the time would have to land on a Saturday since Friday would be 2 minutes ahead.
